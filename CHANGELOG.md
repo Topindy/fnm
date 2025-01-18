@@ -1,5 +1,11 @@
 ## 1.31.0 (2022-02-16)
 
+## 1.38.2
+
+### Patch Changes
+
+- [`52e3abd`](https://github.com/Schniz/fnm/commit/52e3abdff88d91f4eb8cc2aa8a2ea93cf215d9a7) Thanks [@Topindy](https://github.com/Topindy)! - yo
+
 ## 1.38.1
 
 ### Patch Changes
